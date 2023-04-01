@@ -11,7 +11,7 @@
 @preprocessor stylus
 @var checkbox purple-logo "Use purple logo" 0
 @var checkbox purple-topbar "Use purple topbar" 0
-@var checkbox colored-status "Use dracula colors on status badges" 0
+@var checkbox colored-status "Use Omni colors on status badges" 0
 @var checkbox black-btn-text "Use black text on colored buttons" 0
 
 @var checkbox custom-font-enabled "Use custom code font" 0
