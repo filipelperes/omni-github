@@ -217,7 +217,7 @@ background-color: #191622
         --color-ansi-white: #b1bac4;
         --color-ansi-white-bright: #f0f6fc;
         --color-ansi-gray: #6e7681;
-        --color-ansi-red: #ff7b72;
+        --color-ansi-red: #FF79C6;
         --color-ansi-red-bright: #ffa198;
         --color-ansi-green: #3fb950;
         --color-ansi-green-bright: #56d364;
@@ -288,7 +288,7 @@ background-color: #191622
         --color-btn-danger-hover-counter-bg: rgba(255, 255, 255, 0.2);
         --color-btn-danger-selected-text: #ffffff;
         --color-btn-danger-selected-bg: #b62324;
-        --color-btn-danger-selected-border: #ff7b72;
+        --color-btn-danger-selected-border: #FF79C6;
         --color-btn-danger-selected-shadow: 0 0 transparent;
         --color-btn-danger-disabled-text: rgba(248, 81, 73, 0.5);
         --color-btn-danger-disabled-bg: #0d1117;
@@ -305,7 +305,7 @@ background-color: #191622
         --color-action-list-item-default-selected-bg: rgba(177, 186, 196, 0.08);
         --color-action-list-item-danger-hover-bg: rgba(248, 81, 73, 0.16);
         --color-action-list-item-danger-active-bg: rgba(248, 81, 73, 0.24);
-        --color-action-list-item-danger-hover-text: #ff7b72;
+        --color-action-list-item-danger-hover-text: #FF79C6;
         --color-fg-default: #f8f8f2;
         --color-fg-muted: #8b949e;
         --color-fg-subtle: #484f58;
